@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f765bf32-4a1e-4731-901c-4e081e0b3023" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3.问题解决.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +41,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="190">
-                <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                <caret line="10" column="139" lean-forward="false" selection-start-line="10" selection-start-column="139" selection-end-line="10" selection-end-column="139" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -79,8 +78,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/工作中遇到的问题.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/image/3.问题解决.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -91,8 +90,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="200" />
-    <option name="y" value="125" />
+    <option name="x" value="439" />
+    <option name="y" value="121" />
     <option name="width" value="1308" />
     <option name="height" value="957" />
   </component>
@@ -166,15 +165,15 @@
       <updated>1517194102039</updated>
       <workItem from="1517194103593" duration="2810000" />
       <workItem from="1517219829326" duration="10000" />
-      <workItem from="1517363492340" duration="689000" />
+      <workItem from="1517363492340" duration="737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3509000" />
+    <option name="totallyTimeSpent" value="3557000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="200" y="125" width="1308" height="957" extended-state="0" />
+    <frame x="439" y="121" width="1308" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28661418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -275,7 +274,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="190">
-            <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <caret line="10" column="139" lean-forward="false" selection-start-line="10" selection-start-column="139" selection-end-line="10" selection-end-column="139" />
             <folding />
           </first_editor>
           <second_editor />
