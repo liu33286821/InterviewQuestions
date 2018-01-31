@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f765bf32-4a1e-4731-901c-4e081e0b3023" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3.问题解决.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +41,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="209">
-                <caret line="11" column="102" lean-forward="false" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.问题解决.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/3.问题解决.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -67,6 +80,7 @@
       <list>
         <option value="$PROJECT_DIR$/工作中遇到的问题.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/image/3.问题解决.md" />
       </list>
     </option>
   </component>
@@ -77,8 +91,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="504" />
-    <option name="y" value="114" />
+    <option name="x" value="200" />
+    <option name="y" value="125" />
     <option name="width" value="1308" />
     <option name="height" value="957" />
   </component>
@@ -107,6 +121,11 @@
             <path>
               <item name="InterviewQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,15 +166,15 @@
       <updated>1517194102039</updated>
       <workItem from="1517194103593" duration="2810000" />
       <workItem from="1517219829326" duration="10000" />
-      <workItem from="1517363492340" duration="477000" />
+      <workItem from="1517363492340" duration="689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3297000" />
+    <option name="totallyTimeSpent" value="3509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="504" y="114" width="1308" height="957" extended-state="0" />
+    <frame x="200" y="125" width="1308" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28661418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -241,11 +260,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/image/3.问题解决.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" column="102" lean-forward="false" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
