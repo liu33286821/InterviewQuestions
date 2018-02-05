@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f765bf32-4a1e-4731-901c-4e081e0b3023" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/第四题.html" afterPath="$PROJECT_DIR$/html/第四题.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,15 +60,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="201">
-                <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="66" />
-                <folding>
-                  <marker date="1517797491473" expanded="true" signature="734:769" ph="{...}" />
-                  <marker date="1517797491473" expanded="true" signature="734:1237" ph="{...}" />
-                  <marker date="1517797491473" expanded="true" signature="771:924" ph="{...}" />
-                  <marker date="1517797491473" expanded="true" signature="771:1212" ph="{...}" />
-                  <marker date="1517797491473" expanded="true" signature="926:1135" ph="{...}" />
-                </folding>
+              <first_editor relative-caret-position="277">
+                <caret line="16" column="92" lean-forward="false" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -110,8 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/工作中遇到的问题.md" />
         <option value="$PROJECT_DIR$/image/3.问题解决.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/html/第四题.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -211,12 +204,12 @@
       <workItem from="1517194103593" duration="2810000" />
       <workItem from="1517219829326" duration="10000" />
       <workItem from="1517363492340" duration="5133000" />
-      <workItem from="1517793629671" duration="2608000" />
+      <workItem from="1517793629671" duration="2726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10561000" />
+    <option name="totallyTimeSpent" value="10679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="422" y="104" width="1308" height="862" extended-state="0" />
@@ -274,13 +267,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="209">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="103" />
-            <folding>
-              <marker date="1517797491473" expanded="true" signature="734:769" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="734:1237" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="771:924" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="771:1212" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="926:1135" ph="{...}" />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -368,28 +355,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="201">
-            <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="66" />
-            <folding>
-              <marker date="1517797491473" expanded="true" signature="734:769" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="734:1237" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="771:924" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="771:1212" ph="{...}" />
-              <marker date="1517797491473" expanded="true" signature="926:1135" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/第四题.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="277">
+            <caret line="16" column="92" lean-forward="false" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
