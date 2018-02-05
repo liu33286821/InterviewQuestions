@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    const fibonacci = ((startnum = [0, 1]) => {
+        const fib = (n) => { // 这里的参数n  指向了数组的索引
+            let result = startnum[n]  // 目前默认的数组里面只有 0 ，1 这两个索引。 如果大于这两个数的话
+            if (typeof result !== 'number') {
+                result = fib(n - 1) + fib(n -2)
+                startnum[n] = result
+                console.log(startnum)
+            }
+            return result
+        }
+        return fib
+    })()
+
+    fibonacci(7)
+</script>
+</body>
+</html>
