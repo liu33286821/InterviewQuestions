@@ -13,5 +13,34 @@
 
 ### 4. 1,1,2,3,5,8,13,21,......  使用函数来进行获取第n个数
 
-> 此题目主要来源于 **语言精髓**这本书。
 ![tool-editor](https://github.com/liu33286821/InterviewQuestions/blob/master/image/fibonacci.png)
+
+### 5.现在我们需要访问一个对象。 不过对象的嵌套比较深，如果对象不存在，那么就报 ```undefined```
+
+```javascript
+    const data = {a: {b: {c: '深层次'}}}
+    ObjGet(data, 'a.b.c') //深层次
+    ObjGet(data, 'a.b.c.d') //undefined
+```
+
+### 6. 根据数组里面的对象属性进行升降排序 
+
+```javascript
+    //让下面数组可以从大到小排序。 也可以从小到大排序
+    var arr = [
+        {
+            price: 55,
+            title: '价格55'
+        },
+        {
+            price: 11,
+            title: '价格11'
+        },
+        {
+            price: 99,
+            title: '价格99'
+        }
+    ]
+```
+
+
