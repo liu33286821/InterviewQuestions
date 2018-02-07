@@ -103,6 +103,10 @@ defineProperty(obj,prop,descriptor)有三个参数：
 
 
 
+# 其他都是一些常见的使用问题了。 如果说做过vue项目(个人的也算)，基本都会说出来。
+
+
+
 
 
 
