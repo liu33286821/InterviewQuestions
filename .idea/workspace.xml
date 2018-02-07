@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f765bf32-4a1e-4731-901c-4e081e0b3023" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vue.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript.md" afterPath="$PROJECT_DIR$/JavaScript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,19 +51,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="89" column="38" lean-forward="false" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+              <first_editor relative-caret-position="258">
+                <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
                 <folding>
-                  <marker date="1517975171501" expanded="false" signature="1057:1273" ph="[...]" />
-                  <marker date="1517975171501" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
-                  <marker date="1517975171501" expanded="true" signature="1137:1197" ph="{&quot;title&quot;: '价格11'...}" />
-                  <marker date="1517975171501" expanded="true" signature="1207:1267" ph="{&quot;title&quot;: '价格99'...}" />
-                  <marker date="1517975171501" expanded="false" signature="1301:1350" ph="{...}" />
+                  <marker date="1517979777124" expanded="false" signature="1057:1273" ph="[...]" />
+                  <marker date="1517979777124" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
+                  <marker date="1517979777124" expanded="true" signature="1137:1197" ph="{&quot;title&quot;: '价格11'...}" />
+                  <marker date="1517979777124" expanded="true" signature="1207:1267" ph="{&quot;title&quot;: '价格99'...}" />
+                  <marker date="1517979777124" expanded="false" signature="1301:1350" ph="{...}" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vue.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vue.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="375">
+                <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -97,6 +110,7 @@
         <option value="$PROJECT_DIR$/JavaScript.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/JavaScript.md" />
+        <option value="$PROJECT_DIR$/Vue.md" />
       </list>
     </option>
   </component>
@@ -114,10 +128,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="455" />
-    <option name="y" value="73" />
+    <option name="x" value="372" />
+    <option name="y" value="84" />
     <option name="width" value="1515" />
-    <option name="height" value="862" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,15 +209,15 @@
       <workItem from="1517363492340" duration="5133000" />
       <workItem from="1517793629671" duration="3197000" />
       <workItem from="1517812889447" duration="1216000" />
-      <workItem from="1517970402357" duration="4754000" />
+      <workItem from="1517970402357" duration="10381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17120000" />
+    <option name="totallyTimeSpent" value="22747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="455" y="73" width="1515" height="862" extended-state="0" />
+    <frame x="372" y="84" width="1515" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24644549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -212,7 +226,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3727648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31919906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -499,15 +513,26 @@
     <entry file="file://$PROJECT_DIR$/JavaScript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="89" column="38" lean-forward="false" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+          <first_editor relative-caret-position="258">
+            <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
             <folding>
-              <marker date="1517975171501" expanded="false" signature="1057:1273" ph="[...]" />
-              <marker date="1517975171501" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
-              <marker date="1517975171501" expanded="true" signature="1137:1197" ph="{&quot;title&quot;: '价格11'...}" />
-              <marker date="1517975171501" expanded="true" signature="1207:1267" ph="{&quot;title&quot;: '价格99'...}" />
-              <marker date="1517975171501" expanded="false" signature="1301:1350" ph="{...}" />
+              <marker date="1517979777124" expanded="false" signature="1057:1273" ph="[...]" />
+              <marker date="1517979777124" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
+              <marker date="1517979777124" expanded="true" signature="1137:1197" ph="{&quot;title&quot;: '价格11'...}" />
+              <marker date="1517979777124" expanded="true" signature="1207:1267" ph="{&quot;title&quot;: '价格99'...}" />
+              <marker date="1517979777124" expanded="false" signature="1301:1350" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

@@ -87,4 +87,30 @@
 
 >  3.时间冒泡阶段。  防止冒泡： stopPropagation() || e.cancelBublle= true 
 
-    在这里如果我们有一个不需要进行事件代理，只需要它自己一个单独的事件，我们可以考虑使用阻止冒泡。 因为上面也说了，事件代理主要发生在冒泡阶段。
+    在这里如果我们有一个不需要进行事件代理，只需要它自己一个单独的事件，我们可以考虑使用阻止冒泡。 
+    因为上面也说了，事件代理主要发生在冒泡阶段。
+    
+### 12.typeof返回哪些值
+
+>  Array , Object, Function, Null     **返回Object**
+
+> Number, NaN     **返回Number**
+
+> String      **返回String**
+
+> Boolean     **返回Boolean**
+
+> undefined  **返回undefined**
+
+### 13.如果我需要确认typeof 返回是Array，怎么办？ 
+    
+    这个问题继12题进行考察的。 当时只说了两个  instanceof  和 Array.isArray()来进行判断。
+
+### 14.setTimeout和setInterval区别？
+
+    这个问题当时答的很浅，面试官有些不满意吧。 然后又从往上看了下，发现这两者还考察了内存方面的信息。
+    
+>  setTimeout()  隔一段时间只执行一次。 并且它只需要进入一次队列。 不会造成内存溢出。
+
+>  setInterval() 每隔一段时间调用一次。 并且它不计算代码的执行时间，有可能执行多次导致内存的溢出。
+   
