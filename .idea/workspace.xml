@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f765bf32-4a1e-4731-901c-4e081e0b3023" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vue.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript.md" afterPath="$PROJECT_DIR$/JavaScript.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue.md" afterPath="$PROJECT_DIR$/Vue.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/JavaScript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="258">
-                <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
+              <first_editor relative-caret-position="-171">
+                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding>
                   <marker date="1517979777124" expanded="false" signature="1057:1273" ph="[...]" />
                   <marker date="1517979777124" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
@@ -74,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/Vue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+              <first_editor relative-caret-position="342">
+                <caret line="101" column="49" lean-forward="false" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,8 +127,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="372" />
-    <option name="y" value="84" />
+    <option name="x" value="586" />
+    <option name="y" value="86" />
     <option name="width" value="1515" />
     <option name="height" value="984" />
   </component>
@@ -209,15 +208,15 @@
       <workItem from="1517363492340" duration="5133000" />
       <workItem from="1517793629671" duration="3197000" />
       <workItem from="1517812889447" duration="1216000" />
-      <workItem from="1517970402357" duration="10381000" />
+      <workItem from="1517970402357" duration="11252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22747000" />
+    <option name="totallyTimeSpent" value="23618000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="372" y="84" width="1515" height="984" extended-state="0" />
+    <frame x="586" y="86" width="1515" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24644549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -513,8 +512,8 @@
     <entry file="file://$PROJECT_DIR$/JavaScript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="258">
-            <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
+          <first_editor relative-caret-position="-171">
+            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
             <folding>
               <marker date="1517979777124" expanded="false" signature="1057:1273" ph="[...]" />
               <marker date="1517979777124" expanded="true" signature="1067:1127" ph="{&quot;title&quot;: '价格55'...}" />
@@ -530,8 +529,8 @@
     <entry file="file://$PROJECT_DIR$/Vue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+          <first_editor relative-caret-position="342">
+            <caret line="101" column="49" lean-forward="false" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor />
