@@ -15,15 +15,4 @@
 
 ### 2.计算arr所有元素的总和？
 
-```javascript
-  var arr = [1,2,3,4,5,6]
-  Array.prototype.SortNum = function(num) {
-    num = num || 0;
-    this.forEach(function(value) {
-        num+= value
-    });
-     return num
-  };
-   var num = arr.SortNum();
-   console.log(num)
-```
+![tool-editor](https://github.com/liu33286821/InterviewQuestions/blob/master/code_image/two.png)
