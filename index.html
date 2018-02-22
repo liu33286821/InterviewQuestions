@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var arr = [1,2,3,4,3,5,6]
+    function remove(arr, item) {
+        var newArr = []
+        arr.forEach(function(value,index) {
+            if(value !== item ) {
+                newArr.push(value)
+            }
+        })
+        return newArr
+    }
+   console.log(remove(arr, 3))
+</script>
+</body>
+</html>
