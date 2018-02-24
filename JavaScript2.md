@@ -299,4 +299,82 @@
         getElementsByName
         
         getElementById
+
+
+25. 哪些操作会造成内存泄露？
+
+    内存泄露主要是指在不需要的时候还存在。
+    
+    SetTimeout()  第一个参数如果是字符串的话会引发内存泄露。
+    
+    闭包，控制台日志，对象的双循环引用。
+    
+
+26. defer和aysnc？
  
+    defer并行加载文件，会按照页面顺序执行
+    
+    asycn 下载完成后立即执行，不会按照标签顺序执行。
+    
+27. 实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制
+
+```javascript
+    function clone(obj) {
+      var toString = Object.prototype.toString;
+      if(!obj || typeof obj !== 'object') return obj
+      if(obj.nodeType && 'cloneNode' in obj) return obj.cloneNode() //node节点
+      if(toString.call(obj) === '[object Date]') return new Date(obj.getTime())
+      
+      var result = Array.isArray(obj) ? [] : obj.constructor ? new obj.constructor() : {}
+      
+      for (var key in obj) {
+          result[key] = clone(obj[key])
+      }
+      return result
+    }
+    var a = {
+        name: '123',
+        day: new Date(),
+        container: document.body,
+        arr: ['b', new Date(), 111]
+    }
+```
+
+28. 数组[1, [2, [ [3, 4], 5], 6]] =>  [1, 2, 3, 4, 5, 6]
+
+```javascript
+    var arr  = [1, [2, [ [3, 4], 5], 6]] 
+    function flat(arr,result) {
+        var len = arr.length,
+            i,
+            d;
+        for(i = 0; i < len; i++) {
+            d = arr[i]
+            if(Array.isArray(d)) {
+                flat(d,result)
+            } else {
+                result.push(d)
+            }
+        }
+    }
+    var result = []
+    flat(arr, result)
+    console.log(result)
+```
+
+29. Array.isArray(arr)怎么实现的？
+
+```javascript
+    function isArray(arr) {
+      if(typeof arr == 'object') {
+          return Object.prototype.toString.call(arr) === '[object Array]';
+      }
+      return false
+    }
+```
+
+30. 找出整型数组中乘积最大的三个数
+
+```javascript
+    
+```

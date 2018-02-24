@@ -16,25 +16,25 @@
     <li>8</li>
 </ul>
 <script>
-    var arr = [1,2,3,4,3,5,6]
-    function remove(arr, item) {
-        var newArr = []
-        arr.forEach(function(value,index) {
-            if(value !== item ) {
-                newArr.push(value)
-            }
-        })
-        return newArr
-    }
-   console.log(remove(arr, 3))
-
-    var Ul = document.getElementById('ul')
-    Ul.addEventListener('click',function(e) {
-        var target = e.target || event.srcElement
-        if(!!target && target.nodeName.toUpperCase() === 'LI') {
-            console.log(target.innerHTML)
+    var array = [-10, 7, 29, 30, 5, -10, -70];
+    function Big(arr) {
+        var sorted_array = sortIntegers(arr)
+        var product1 = 1;
+        var product2 = 1;
+        array_n_element = sorted_array.length - 1;
+        for (var x = array_n_element; x > array_n_element - 3; x--) {
+            product1 = product1 * sorted_array[x];
         }
-    },false)
+        product2 = sorted_array[0] * sorted_array[1] * sorted_array[array_n_element];
+
+        if (product1 > product2) return product1;
+
+        return product2
+    }
+    function sortIntegers(a, b) {
+        return a - b;
+    }
+    console.log(Big(array))
 </script>
 </body>
 </html>
